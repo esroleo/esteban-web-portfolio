@@ -33,9 +33,9 @@ function NavPage(props) {
         <Nav className="mr-auto">
 
             <Nav.Link href="#AboutMe" onClick={() => setNavLinkSelected('About')}>About Me</Nav.Link>
-            <Nav.Link href="#Portfolio" onClick={() => console.log("clicked")}>Portofilio</Nav.Link>
-            <Nav.Link href="#Contact">Contact</Nav.Link>
-            <Nav.Link href="#Resume">Resume</Nav.Link>
+            <Nav.Link href="#Portfolio" onClick={() => setNavLinkSelected('Portfolio')}>Portofilio</Nav.Link>
+            <Nav.Link href="#Resume" onClick={() => setNavLinkSelected('Resume')}>Resume</Nav.Link>
+            <Nav.Link href="#Test" onClick={() => setNavLinkSelected('Contact')}>Contact</Nav.Link>
 
         </Nav>
         </Navbar.Collapse>

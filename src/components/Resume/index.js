@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-function Contact() {
+function Resume() {
 
 
     return (
@@ -9,4 +9,4 @@ function Contact() {
     )
 }
 
-export default Contact;
+export default Resume;

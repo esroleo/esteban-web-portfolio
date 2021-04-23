@@ -4,6 +4,10 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import NavPage from './components/NavPage';
 import About from './components/About';
+import Portfolio from './components/Portfolio';
+import Contact from './components/Contact';
+import Resume from './components/Resume';
+import Footer from './components/Footer';
 
 
 /* <Container>
@@ -33,12 +37,14 @@ function App() {
     switch (navLinkSelected) {
       case 'About':
         return <About />;
-      // case 'Blog':
-      //   return <Blog />;
-      // case 'Contact':
-      //   return <Contact />;
+      case 'Portfolio':
+         return <Portfolio />;
+      case 'Contact':
+         return <Contact />;
+      case 'Resume':
+        return <Resume />;
       default:
-        return console.log("nothing to see here");
+        return <About />;
     }
   };
 
@@ -55,9 +61,9 @@ function App() {
             <h1>{navLinkSelected}</h1>
             {/* Call the renderPage function passing in the currentPage */}
             <div>{renderPage(navLinkSelected)}</div>
-
-     
     </main>
+
+    <Footer></Footer>
 
 
     </div>
