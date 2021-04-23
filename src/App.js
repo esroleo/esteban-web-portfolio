@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Test from './components/Test';
+import NavPage from './components/NavPage';
 import About from './components/About';
 
 
@@ -33,10 +33,10 @@ function App() {
 
     <div>
 
-    <Test>
+    <NavPage>
     contactSelected={setContactSelected}
     setContactSelected={setContactSelected}
-    </Test>
+    </NavPage>
 
     
        
