@@ -27,21 +27,35 @@ function App() {
   //const [show, toggleShow] = useState(true);
 
   //const [navItemSelected, setNavItemSelected] = useState(true);
-  const [contactSelected, setContactSelected] = useState(false);
+  const [navLinkSelected, setNavLinkSelected] = useState('Caca');
+
+  const renderPage = () => {
+    switch (navLinkSelected) {
+      case 'About':
+        return <About />;
+      // case 'Blog':
+      //   return <Blog />;
+      // case 'Contact':
+      //   return <Contact />;
+      default:
+        return console.log("nothing to see here");
+    }
+  };
 
   return (
 
     <div>
 
-    <NavPage>
-    contactSelected={setContactSelected}
-    setContactSelected={setContactSelected}
+    <NavPage navLinkSelected={navLinkSelected} setNavLinkSelected={setNavLinkSelected}>
+
     </NavPage>
 
-    
-       
+          
     <main>
-            <About></About>
+            <h1>{navLinkSelected}</h1>
+            {/* Call the renderPage function passing in the currentPage */}
+            <div>{renderPage(navLinkSelected)}</div>
+
      
     </main>
 

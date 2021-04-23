@@ -18,12 +18,9 @@ import FormControl from 'react-bootstrap/NavDropdown';
 function NavPage(props) {
 
 
-
     const {
-        contactSelected,
-        setContactSelected,
-        navItemSelected,
-        setNavItemSelected
+        navLinkSelected,
+        setNavLinkSelected
        
     } = props;
     
@@ -35,7 +32,7 @@ function NavPage(props) {
         <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">
 
-            <Nav.Link href="#AboutMe" onClick={() => setContactSelected(false)}>About Me</Nav.Link>
+            <Nav.Link href="#AboutMe" onClick={() => setNavLinkSelected('About')}>About Me</Nav.Link>
             <Nav.Link href="#Portfolio" onClick={() => console.log("clicked")}>Portofilio</Nav.Link>
             <Nav.Link href="#Contact">Contact</Nav.Link>
             <Nav.Link href="#Resume">Resume</Nav.Link>
