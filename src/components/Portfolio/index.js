@@ -4,7 +4,8 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
-
+import Card from 'react-bootstrap/Card';
+import Button from 'react-bootstrap/Button';
 
 function Portfolio() {
 
@@ -21,34 +22,46 @@ function Portfolio() {
 
     const images =[
         {
-          name: 'challeng-1-refactor-code-smaller',
-          category: 'refactor',
-          description: 'Challenge to refactor code with best practices',
+            title: 'Refactor Code',
+            name: 'challeng-1-refactor-code-smaller',
+            technology: 'HTML/CSS',
+            description: 'Challenge to refactor code with best practices',
+            link: "https://esroleo.github.io/html-css-git-challenge1-code-refactor/"
         },
         {
-          name: 'run-buddy-project',
-          category: 'javascript',
-          description: 'Turn page into a responsive design with cool features',
+            title: 'Responsive Application',
+            name: 'run-buddy-project',
+            technology: 'HTML/CSS',
+            description: 'Turn page into a responsive design with cool features',
+            link: "https://esroleo.github.io/run-buddy/"
         },
         {
-          name: 'password-generator',
-          category: 'dynamic js',
-          description: 'Dynamic javascript project to render page as SPA',
+            title: 'Password Generator',
+            name: 'password-generator',
+            technology: 'CSS/Javascript',
+            description: 'Dynamic javascript project to render page as SPA',
+            link: "https://esroleo.github.io/javascript-challenge-password-generator/"
         },
         {
-          name: 'web-api-code-quiz',
-          category: 'api',
-          description: 'User local storage to store objects using json',
+            title: 'Web API Code Quiz',
+            name: 'web-api-code-quiz',
+            technology: 'Javascript/CSS/LocalStorage',
+            description: 'Local storage used to store objects using json',
+            link: "https://esroleo.github.io/web-api-challenge-code-quiz/"
         },
         {
-          name: 'work-day-scheduler',
-          category: 'jquery',
-          description: 'Dynamic application using jquery',
+            title: 'Work Day Scheduler',
+            name: 'work-day-scheduler',
+            technology: 'Javascript/Bootstrap',
+            description: 'Dynamic application using jquery',
+            link: "https://esroleo.github.io/work-day-scheduler/"
         },
         {
-          name: 'project1-group07',
-          category: 'group-project',
-          description: `Group project 1 using external api's with fetch`,
+            title: 'Project01 Grouo07',
+            name: 'project1-group07',
+            technology: 'HTML/CSS/Javascript',
+            description: `Group project 1 using external api's with fetch to support COVID patients`,
+            link: "https://uot-project1-group07.github.io/project1-group07/"
         }
       ];
 
@@ -79,22 +92,32 @@ function Portfolio() {
             <Container>
                 <Row className="justify-content-md-center">
                  {images.map((image, i) => (
-                    <Col onClick={() => console.log("test")} className="my-3" xs={6} md={6}>
-                    <span class="span-background"> 
-                        <h3>Horiseon Services</h3>
-                        <span class="lower-text">HTML/CSS</span>
-                    </span>
-                
-                    <Image 
-                        fluid 
-                        variant="danger"
-                        className="border border-primary"
-                        src={require(`../../assets/projects/${image.name}.JPG`).default}
-                        rounded
-                        alt={image.name} 
-                        onClick={() => toggleModal(image, i)}
-                        key={image.name}
+                    <Col onClick={() => console.log("test")} className="my-3" xs={12} md={6} xl={4}>
+                    <Card 
+                    text="dark" 
+                    className="mb-2" 
+                    style={{ width: '18rem' }}>
+                    <Card.Img variant="top" 
+                    src={require(`../../assets/projects/${image.name}.JPG`).default}
                     />
+                    <Card.Body>
+                        <Card.Title >{image.title}</Card.Title>
+                        <Card.Subtitle className="mb-2 text-muted">{image.technology}</Card.Subtitle>
+                        <Card.Text>
+                        {image.description}
+                        </Card.Text>
+                        
+                        <Button 
+                        className="mb-2 text-center" 
+                        text="light" 
+                        bg="primary" 
+                        variant="primary"
+                        href={image.link}
+                        target="_blank">
+                            Go to Project
+                            </Button>
+                    </Card.Body>
+                    </Card>
 
 
                     </Col>
