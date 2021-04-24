@@ -66,24 +66,7 @@ function Portfolio() {
       ];
 
 
-    // useState hook for Photolist to manage current photo
-    // and make this data accessible to the Modal
-    const [currentPhoto, setCurrentPhoto] = useState();
 
-    // modal to conditinoally render the modal based on whether
-    // an image has been clicked.
-    const [isModalOpen, setIsModalOpen] = useState(false);
-
-   // toggle Modal code from the return function
-    const toggleModal = (image, i) => {
-    // current photo
-    setCurrentPhoto({...image, index: i});
-    //setIsModalOpen(true);
-    setIsModalOpen(!isModalOpen);
-
-
-    
-  }
     return (
 
         <div className="flex-row">
@@ -92,7 +75,7 @@ function Portfolio() {
             <Container>
                 <Row className="justify-content-md-center">
                  {images.map((image, i) => (
-                    <Col onClick={() => console.log("test")} className="my-3" xs={12} md={6} xl={4}>
+                    <Col onClick={() => console.log("test")} className="my-" xs={12} md={6} xl={4}>
                     <Card 
                     text="dark" 
                     className="mb-2" 
