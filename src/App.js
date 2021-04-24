@@ -58,7 +58,6 @@ function App() {
 
           
     <main>
-            <h1>{navLinkSelected}</h1>
             {/* Call the renderPage function passing in the currentPage */}
             <div>{renderPage(navLinkSelected)}</div>
     </main>

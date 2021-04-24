@@ -9,9 +9,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
-import NavDropdown from 'react-bootstrap/NavDropdown';
-import Form from 'react-bootstrap/NavDropdown';
-import FormControl from 'react-bootstrap/NavDropdown';
+
 
 //data-testid="about" href="#about" onClick={() => setContactSelected(false)}
 
