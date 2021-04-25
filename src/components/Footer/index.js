@@ -16,8 +16,16 @@ function Footer() {
         <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="justify-content-end" style={{ width: "100%" }}>
 
-            <Nav.Link href="#GitHub" >GitHub</Nav.Link>
-            <Nav.Link href="#Portfolio" >LinkeIn</Nav.Link>
+            <Nav.Link 
+            href="https://github.com/esroleo"
+            target="_blank"
+            >GitHub
+            </Nav.Link>
+            <Nav.Link 
+            href="https://www.linkedin.com/in/esroleo/"
+            target="_blank"
+            >LinkeIn
+            </Nav.Link>
 
         </Nav>
         </Navbar.Collapse>

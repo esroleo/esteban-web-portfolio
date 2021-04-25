@@ -8,7 +8,7 @@ import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 import profileImage from "../../assets/profile/profile_picture.png";
 
-const icons =[
+const iconsFrontEnd =[
     {
         name: 'html-css.png',
     },
@@ -26,12 +26,20 @@ const icons =[
     },
     {
         name: 'bootstrap-5.svg'
+    },
+    {
+        name: 'bootstrap-5.svg'
+    },
+    {
+        name: 'bootstrap-5.svg'
+    },
+    {
+        name: 'bootstrap-5.svg'
     }
 
 
   ];
 
-console.log(icons[0].name)
 
   
 function Resume() {
@@ -41,6 +49,7 @@ function Resume() {
 
 
         <> 
+
         <Container className="text-center">
                     <Button
     
@@ -54,9 +63,12 @@ function Resume() {
 
         </Container>
 
-      
+        <Container className="text-left my-5">
+              <h3>Front End</h3>
 
-        
+        </Container>
+
+            
         
         <Container>
         <Row className="justify-content-center">
@@ -64,11 +76,11 @@ function Resume() {
       
 
             <Col className="my-3 text-center" xs={12} md={12} xl={4}>
-            {icons.map((image, i) => (
+            {iconsFrontEnd.map((image, i) => (
             <Image 
                 className="mx-3 my-3"
-                width={60}
-                height={70}
+                width={250}
+                height={20}
                 fluid
                 src={require(`../../assets/icons/${image.name}`).default}
                 rounded
@@ -82,6 +94,13 @@ function Resume() {
 
         </Row>
     </Container>
+
+    <Container className="text-left my-5">
+              <h3>Back End </h3>
+
+        </Container>
+
+
 
     </>
 
