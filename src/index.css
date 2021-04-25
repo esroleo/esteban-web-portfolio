@@ -23,6 +23,19 @@ code {
     monospace;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  margin: 5px 0;
+  line-height: 1.25;
+}
+
+
 .background {
   background-image: url("../src/assets/background/background.jpg");
   height: 100vh;

@@ -10,7 +10,7 @@ import profileImage from "../../assets/profile/profile_picture.png";
 
 const iconsFrontEnd =[
     {
-        name: 'html-css.png',
+        name: 'html-css.png'
     },
     {
         name: 'logo-javascript.svg'
@@ -59,7 +59,7 @@ function Resume() {
                 text="light" 
                 bg="primary" 
                 variant="primary"
-                href="./assets/resume/EstebanRomero-Resume-2021.docx"
+                href="../../assets/resume/EstebanRomero-Resume-2021.pdf"
                 download>
                     Download Resume
                 </Button>     
@@ -73,11 +73,11 @@ function Resume() {
          
       
 
-            <Col className="my-3 text-center" xs={12} md={12} xl={4}>
+            <Col className="my-3 text-center" xs={12} md={12} xl={12}>
             {iconsFrontEnd.map((image, i) => (
             <Image 
                 className="mx-3 my-5"
-                width={200}
+                width={100}
                 height={20}
                 fluid
                 src={require(`../../assets/icons/${image.name}`).default}
