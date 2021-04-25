@@ -15,15 +15,15 @@ function About() {
     <section> 
     <Container >
       <Row>
-        <Col className="text-center my-5">
+        <Col className="text-center my-4">
           <h1 id="about">About Me?</h1>
         </Col>
       </Row>
 
       <Row>
-        <Col className="text-center my-5">
+        <Col className="text-center my-1">
           <Image src={profileImage} 
-          className="my-2r" 
+          className="my-2" 
           style={{ width: "25%" }} 
           alt="cover" 
           roundedCircle />

@@ -68,19 +68,24 @@ function Portfolio() {
 
     return (
 
-        <div className="flex-row">
+        
 
 
             <Container>
                 <Row className="justify-content-md-center">
                  {images.map((image, i) => (
-                    <Col onClick={() => console.log("test")} className="my-" xs={12} md={6} xl={4}>
+                    <Col onClick={() => console.log("test")} 
+                     xs={12} md={6} xl={4}>
                     <Card 
                     text="dark" 
-                    className="mb-2" 
-                    style={{ width: '18rem' }}>
-                    <Card.Img variant="top" 
+                    className="mb-2 my-2 " 
+                    >
+                    <Card.Img 
+                    variant="top" 
+                    
+                    height={300}
                     src={require(`../../assets/projects/${image.name}.JPG`).default}
+
                     />
                     <Card.Body>
                         <Card.Title >{image.title}</Card.Title>
@@ -109,7 +114,7 @@ function Portfolio() {
                 </Row>
             </Container>
 
-      </div>
+     
 
     )
 }
