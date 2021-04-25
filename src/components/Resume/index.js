@@ -19,22 +19,25 @@ const iconsFrontEnd =[
         name: 'bootstrap-5.svg'
     },
     {
-        name: 'bootstrap-5.svg'
+        name: 'nodejs-1-logo.png'
     },
     {
-        name: 'bootstrap-5.svg'
+        name: 'heroku-logo.png'
     },
     {
-        name: 'bootstrap-5.svg'
+        name: 'insomnia-icon.png'
     },
     {
-        name: 'bootstrap-5.svg'
+        name: 'sequelize-logo.png'
     },
     {
-        name: 'bootstrap-5.svg'
+        name: 'react.png'
     },
     {
-        name: 'bootstrap-5.svg'
+        name: 'mong-db-logo.png'
+    },
+    {
+        name: 'webpack.png'
     }
 
 
@@ -63,12 +66,7 @@ function Resume() {
 
         </Container>
 
-        <Container className="text-left my-5">
-              <h3>Front End</h3>
-
-        </Container>
-
-            
+           
         
         <Container>
         <Row className="justify-content-center">
@@ -78,8 +76,8 @@ function Resume() {
             <Col className="my-3 text-center" xs={12} md={12} xl={4}>
             {iconsFrontEnd.map((image, i) => (
             <Image 
-                className="mx-3 my-3"
-                width={250}
+                className="mx-3 my-5"
+                width={200}
                 height={20}
                 fluid
                 src={require(`../../assets/icons/${image.name}`).default}
@@ -94,12 +92,6 @@ function Resume() {
 
         </Row>
     </Container>
-
-    <Container className="text-left my-5">
-              <h3>Back End </h3>
-
-        </Container>
-
 
 
     </>
