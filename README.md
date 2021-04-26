@@ -1,75 +1,131 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+## REACT Web Portfolio Challenge: REACT Web Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. [ Description. ](#desc)
+2. [ Web Address. ](#web-address)
+3. [ Usage tips. ](#usage)
+4. [ Features. ](#features)
+5. [ Credits. ](#credits)
+6. [ Licenses. ](#licenses)
+7. [ Install Command. ](#commandInstall)
+8. [ Test Command. ](#commandTest)
+9. [ Contributing. ](#contributing)
+9. [ Questions. ](#questions)
 
-## Available Scripts
+### For license description, click on the badge to get more information.
+[![License](https://img.shields.io/badge/License-MIT%20-blue.svg)](https://opensource.org/licenses/mit)
 
-In the project directory, you can run:
+<a name="desc"></a>
+## 1. Description
 
-### `npm start`
+This is a full stack web application that was build using REACT, bootstarp and gh-pages.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Major tech snapshot
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![tech](./assets/images/code-used.JPG?raw=true "code-used.JPG")
 
-### `npm test`
+<a name="web-address"></a>
+## 2. How to Get There
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Open your favorite web browser and enter the following web address to start using the website.
 
-### `npm run build`
+http://esroleo.github.io/react-challenge-portfolio
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<a name="usage"></a>
+## 3. Usage Tips
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This application is my REACT web portolio, there are no specific usage tips apart from enjoy my website.
 
-### `npm run eject`
+If you want to run locally preform the following:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+If you are still intersted in running the application you would need to do the following:
+* git clone
+* * npm i
+* npm start
+* use website http://localhost:3000/react-challenge-portfolio
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<a name="features"></a>
+## 4. Features
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Application is both desktop and mobile friendly.
+### Application is both desktop and mobile friendly.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Main Page
 
-## Learn More
+![step](./read-me-images/read-me-images/main-page-desktop.JPG?raw=true "main-page-desktop")
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![step](../assets/read-me-images/main-page-small-device.JPG?raw=true "main-page-small-device")
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Main Page Nav Bar
 
-### Code Splitting
+![step](../../assets/read-me-images/main-page-desktop-nav-bar.JPG?raw=true "main-page-desktop-nav-bar.JPG")
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![step](./assets/read-me-images/dashboard-create-post-mobile.JPG?raw=true "main-page-small-device-nav-bar.JPG")
 
-### Analyzing the Bundle Size
+### Portfolio
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![step](./assets/read-me-images/view-dashboard-create-post.JPG?raw=true "view-dashboard-create-post.JPG")
 
-### Making a Progressive Web App
+![step](./assets/read-me-images/portfolio-smaller-device.JPG?raw=true "portfolio-smaller-device.JPG")
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+### Resume
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![step](./assets/read-me-images/view-dashboard-create-post-new-post-save-delete.JPG?raw=true "resume-smaller-device.JPG")
 
-### Deployment
+![step](./assets/read-me-images/view-dashboard-create-post-new-post-save-delete.JPG?raw=true "resume-smaller-device.JPG")
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Contact 
 
-### `npm run build` fails to minify
+![step](./assets/images/contact-smaller-device.JPG?raw=true "contact-smaller-device.JPG")
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# react-challenge-portfolio
-REACT SPA Front End Application
->>>>>>> 64455689026c9dad2fb55cdd96858b0f5187958b
+
+### Contact Validation
+
+![step](./assets/images/contact-validation-name.JPG?raw=true "contact-validation-name.JPG")
+
+![step](./assets/images/contact-validation-email.JPG?raw=true "contact-validation-email.JPG")
+
+![step](./assets/imagescontact-validation-description.JPG?raw=true "contact-validation-description.JPG")
+
+<a name="credits"></a>
+## 5. Credits
+
+REACT for creating such an amazing way of rending our web pages!
+
+<a name="licenses"></a>
+## 6. Licenses
+
+mit
+
+<a name="commandInstall"></a>
+## 7. Install Command
+
+### npm install command will install javascript dependencies
+
+npm i
+
+<a name="commandTest"></a>
+## 8. Test Command
+
+No test commands avaialble, if you would like any, please let me know.
+
+<a name="contributing"></a>
+## 9. Contributing
+
+Please email Esteban Romero --> esroleo@gmail.com
+
+<a name="questions"></a>
+## 10. Questions
+
+Please reach out to me
+
+GitHub Url: https://github.com/esroleo
+
+LinkeIn: https://www.linkedin.com/in/esroleo/
+
+Email address: esroleo@gmail.com
+
+
+
+
