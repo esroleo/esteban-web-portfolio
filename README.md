@@ -17,7 +17,7 @@
 <a name="desc"></a>
 ## 1. Description
 
-This is a full stack web application that was build using REACT, bootstarp and gh-pages.
+This is a full stack web application that was built using REACT, bootstrap and gh-pages.
 
 ### Major tech snapshot
 
@@ -34,11 +34,11 @@ http://esroleo.github.io/react-challenge-portfolio
 <a name="usage"></a>
 ## 3. Usage Tips
 
-This application is my REACT web portolio, there are no specific usage tips apart from enjoy my website.
+This application is my REACT web portfolio, there are no specific usage tips apart from enjoying my website.
 
-If you want to run locally preform the following:
+If you want to run locally perform the following:
 
-If you are still intersted in running the application you would need to do the following:
+If you are still interested in running the application you would need to do the following:
 * git clone
 * npm i
 * npm start
@@ -68,6 +68,8 @@ Application is both desktop and mobile friendly.
 
 
 ### Resume
+
+You can also download my resume by clicking on the download resume. 
 
 ![step](./read-me-images/resume-smaller-device.JPG?raw=true "resume-smaller-device.JPG")
 
@@ -105,7 +107,7 @@ npm i
 <a name="commandTest"></a>
 ## 8. Test Command
 
-No test commands avaialble, if you would like any, please let me know.
+No test commands available, if you would like any, please let me know.
 
 <a name="contributing"></a>
 ## 9. Contributing
@@ -119,9 +121,10 @@ Please reach out to me
 
 GitHub Url: https://github.com/esroleo
 
-LinkeIn: https://www.linkedin.com/in/esroleo/
+LinkedIn: https://www.linkedin.com/in/esroleo/
 
 Email address: esroleo@gmail.com
+
 
 
 
