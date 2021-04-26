@@ -40,7 +40,7 @@ If you want to run locally preform the following:
 
 If you are still intersted in running the application you would need to do the following:
 * git clone
-* * npm i
+* npm i
 * npm start
 * use website http://localhost:3000/react-challenge-portfolio
 
