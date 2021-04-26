@@ -52,9 +52,9 @@ Application is both desktop and mobile friendly.
 
 ### Main Page
 
-![step](./assets/read-me-images/main-page-desktop.JPG?raw=true "main-page-desktop.JPG")
+![step](../../assets/read-me-images/main-page-desktop.JPG?raw=true "main-page-desktop.JPG")
 
-![step](./assets/read-me-images/main-page-small-device.JPG?raw=true "main-page-small-device.JPG")
+![step](../assets/read-me-images/main-page-small-device.JPG?raw=true "main-page-small-device.JPG")
 
 ### Main Page Nav Bar
 
