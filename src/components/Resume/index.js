@@ -8,6 +8,8 @@ import Button from 'react-bootstrap/Button';
 import ResumeFile from "../../assets/resume/EstebanResume.pdf";
 
 
+
+
 const iconsFrontEnd =[
     {
         name: 'html-css.png'

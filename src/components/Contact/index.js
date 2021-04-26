@@ -77,7 +77,7 @@ function ContactForm() {
                 <Form.Label>Name</Form.Label>
                 <Form.Control name="name" defaultValue={name} onBlur={handleChange} size="lg" type="name" placeholder="Enter name" />
                 <Form.Text className="text-muted">
-                We'll never share your name with anyone else.
+                
                 </Form.Text>
             </Form.Group>
 
@@ -85,12 +85,12 @@ function ContactForm() {
                 <Form.Label>Email address</Form.Label>
                 <Form.Control name="email" defaultValue={email} onBlur={handleChange} size="lg" type="email" placeholder="Enter email" />
                 <Form.Text className="text-muted">
-                We'll never share your email with anyone else.
+                
                 </Form.Text>
             </Form.Group>
 
             <Form.Group controlId="exampleForm.ControlTextarea1">
-                <Form.Label>Example textarea</Form.Label>
+                <Form.Label>Leave me a message</Form.Label>
                 <Form.Control name="message" defaultValue={message} onBlur={handleChange} as="textarea" rows={3} />
             </Form.Group>
 
