@@ -38,7 +38,7 @@ function ContactForm() {
         if (!errorMessage) {
           setFormState({ [e.target.name]: e.target.value });
           console.log('Form', formState);
-          handleShow ()
+          
           
          } 
       };
@@ -54,8 +54,10 @@ function ContactForm() {
         } else {
             if (!e.target.value.length) {
             setErrorMessage(`${e.target.name} is required.`);
+            } else if (e.target.name === "") {
+                setErrorMessage(`Please etner a message`);
             } else {
-            setErrorMessage('');
+                setErrorMessage('');
             }
         }
         //console.log('errorMessage', errorMessage); 
