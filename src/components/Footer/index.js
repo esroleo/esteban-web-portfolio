@@ -24,7 +24,7 @@ function Footer() {
             <Nav.Link 
             href="https://www.linkedin.com/in/esroleo/"
             target="_blank"
-            >LinkeIn
+            >Linkedin
             </Nav.Link>
 
         </Nav>
