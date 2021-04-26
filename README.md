@@ -52,41 +52,38 @@ Application is both desktop and mobile friendly.
 
 ### Main Page
 
-![step](./read-me-images/read-me-images/main-page-desktop.JPG?raw=true "main-page-desktop")
+![step](./read-me-images/main-page-desktop.JPG?raw=true "main-page-desktop.JPG")
 
-![step](../assets/read-me-images/main-page-small-device.JPG?raw=true "main-page-small-device")
+![step](./read-me-images//main-page-small-device.JPG?raw=true "main-page-small-device.JPG")
 
 ### Main Page Nav Bar
 
-![step](../../assets/read-me-images/main-page-desktop-nav-bar.JPG?raw=true "main-page-desktop-nav-bar.JPG")
+![step](./read-me-images/main-page-desktop-nav-bar.JPG?raw=true "main-page-desktop-nav-bar.JPG")
 
-![step](./assets/read-me-images/dashboard-create-post-mobile.JPG?raw=true "main-page-small-device-nav-bar.JPG")
+![step](./read-me-images/main-page-small-device-nav-bar.JPG?raw=true "main-page-small-device-nav-bar.JPG")
 
 ### Portfolio
 
-![step](./assets/read-me-images/view-dashboard-create-post.JPG?raw=true "view-dashboard-create-post.JPG")
-
-![step](./assets/read-me-images/portfolio-smaller-device.JPG?raw=true "portfolio-smaller-device.JPG")
+![step](./read-me-images/portfolio-smaller-device.JPG?raw=true "portfolio-smaller-device.JPG")
 
 
 ### Resume
 
-![step](./assets/read-me-images/view-dashboard-create-post-new-post-save-delete.JPG?raw=true "resume-smaller-device.JPG")
+![step](./read-me-images/resume-smaller-device.JPG?raw=true "resume-smaller-device.JPG")
 
-![step](./assets/read-me-images/view-dashboard-create-post-new-post-save-delete.JPG?raw=true "resume-smaller-device.JPG")
 
 ### Contact 
 
-![step](./assets/images/contact-smaller-device.JPG?raw=true "contact-smaller-device.JPG")
+![step](./read-me-images/contact-smaller-device.JPG?raw=true "contact-smaller-device.JPG")
 
 
 ### Contact Validation
 
-![step](./assets/images/contact-validation-name.JPG?raw=true "contact-validation-name.JPG")
+![step](./read-me-images/contact-validation-name.JPG?raw=true "contact-validation-name.JPG")
 
-![step](./assets/images/contact-validation-email.JPG?raw=true "contact-validation-email.JPG")
+![step](./read-me-images/contact-validation-email.JPG?raw=true "contact-validation-email.JPG")
 
-![step](./assets/imagescontact-validation-description.JPG?raw=true "contact-validation-description.JPG")
+![step](./read-me-images/contact-validation-description.JPG?raw=true "contact-validation-description.JPG")
 
 <a name="credits"></a>
 ## 5. Credits
