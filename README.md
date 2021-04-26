@@ -69,7 +69,8 @@ Application is both desktop and mobile friendly.
 
 ### Resume
 
-You can also download my resume by clicking on the download resume. 
+You can also download my resume by clicking on the download resume. If you get a network error, it could be a firewall issue.
+Please feel free to contact me and I will provide it to you. 
 
 ![step](./read-me-images/resume-smaller-device.JPG?raw=true "resume-smaller-device.JPG")
 
