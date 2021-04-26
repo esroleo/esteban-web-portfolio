@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/react-challenge-portfolio/static/css/main.2d559282.chunk.css",
-    "main.js": "/react-challenge-portfolio/static/js/main.501f5faa.chunk.js",
-    "main.js.map": "/react-challenge-portfolio/static/js/main.501f5faa.chunk.js.map",
+    "main.js": "/react-challenge-portfolio/static/js/main.696121bd.chunk.js",
+    "main.js.map": "/react-challenge-portfolio/static/js/main.696121bd.chunk.js.map",
     "runtime-main.js": "/react-challenge-portfolio/static/js/runtime-main.9800a431.js",
     "runtime-main.js.map": "/react-challenge-portfolio/static/js/runtime-main.9800a431.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/react-challenge-portfolio/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.b90bb8b1.chunk.js": "/react-challenge-portfolio/static/js/2.b90bb8b1.chunk.js",
-    "static/js/2.b90bb8b1.chunk.js.map": "/react-challenge-portfolio/static/js/2.b90bb8b1.chunk.js.map",
+    "static/js/2.2b7f3462.chunk.js": "/react-challenge-portfolio/static/js/2.2b7f3462.chunk.js",
+    "static/js/2.2b7f3462.chunk.js.map": "/react-challenge-portfolio/static/js/2.2b7f3462.chunk.js.map",
     "static/js/3.9201513b.chunk.js": "/react-challenge-portfolio/static/js/3.9201513b.chunk.js",
     "static/js/3.9201513b.chunk.js.map": "/react-challenge-portfolio/static/js/3.9201513b.chunk.js.map",
     "index.html": "/react-challenge-portfolio/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/react-challenge-portfolio/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.2d559282.chunk.css.map": "/react-challenge-portfolio/static/css/main.2d559282.chunk.css.map",
-    "static/js/2.b90bb8b1.chunk.js.LICENSE.txt": "/react-challenge-portfolio/static/js/2.b90bb8b1.chunk.js.LICENSE.txt",
+    "static/js/2.2b7f3462.chunk.js.LICENSE.txt": "/react-challenge-portfolio/static/js/2.2b7f3462.chunk.js.LICENSE.txt",
+    "static/media/EstebanResume.f4e2b71b.pdf": "/react-challenge-portfolio/static/media/EstebanResume.f4e2b71b.pdf",
     "static/media/GitHub-logo.png": "/react-challenge-portfolio/static/media/GitHub-logo.a34f373e.png",
     "static/media/MongoDB_Logo.svg": "/react-challenge-portfolio/static/media/MongoDB_Logo.acec900c.svg",
     "static/media/index.css": "/react-challenge-portfolio/static/media/background.e5838343.jpg",
@@ -40,8 +41,8 @@
   "entrypoints": [
     "static/js/runtime-main.9800a431.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.b90bb8b1.chunk.js",
+    "static/js/2.2b7f3462.chunk.js",
     "static/css/main.2d559282.chunk.css",
-    "static/js/main.501f5faa.chunk.js"
+    "static/js/main.696121bd.chunk.js"
   ]
 }
