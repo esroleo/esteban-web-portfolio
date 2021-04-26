@@ -5,6 +5,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
 import Button from 'react-bootstrap/Button';
+import ResumeFile from "../../assets/resume/EstebanResume.pdf";
 
 
 const iconsFrontEnd =[
@@ -58,7 +59,7 @@ function Resume() {
                 text="light" 
                 bg="primary" 
                 variant="primary"
-                href="../../assets/resume/EstebanRomero-Resume-2021.pdf"
+                href={ResumeFile} 
                 download>
                     Download Resume
                 </Button>     
