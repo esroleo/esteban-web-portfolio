@@ -1,4 +1,4 @@
-## React Challenge: React Portfolio: REACT Web Portfolio
+## REACT Web Portfolio Challenge: REACT Web Portfolio
 
 1. [ Description. ](#desc)
 2. [ Web Address. ](#web-address)
