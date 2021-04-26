@@ -21,7 +21,7 @@ This is a full stack web application that was build using REACT, bootstarp and g
 
 ### Major tech snapshot
 
-![tech](./assets/images/code-used.JPG?raw=true "code-used.JPG")
+![tech](read-me-images/tech-used.JPG?raw=true "code-used.JPG")
 
 <a name="web-address"></a>
 ## 2. How to Get There
