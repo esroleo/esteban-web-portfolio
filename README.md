@@ -52,13 +52,13 @@ Application is both desktop and mobile friendly.
 
 ### Main Page
 
-![step](../../assets/read-me-images/main-page-desktop.JPG?raw=true "main-page-desktop.JPG")
+![step](./read-me-images/read-me-images/main-page-desktop.JPG?raw=true "main-page-desktop")
 
-![step](../assets/read-me-images/main-page-small-device.JPG?raw=true "main-page-small-device.JPG")
+![step](../assets/read-me-images/main-page-small-device.JPG?raw=true "main-page-small-device")
 
 ### Main Page Nav Bar
 
-![step](./assets/read-me-images/main-page-desktop-nav-bar.JPG?raw=true "main-page-desktop-nav-bar.JPG")
+![step](../../assets/read-me-images/main-page-desktop-nav-bar.JPG?raw=true "main-page-desktop-nav-bar.JPG")
 
 ![step](./assets/read-me-images/dashboard-create-post-mobile.JPG?raw=true "main-page-small-device-nav-bar.JPG")
 
