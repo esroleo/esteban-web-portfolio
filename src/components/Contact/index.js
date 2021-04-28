@@ -54,8 +54,6 @@ function ContactForm() {
         } else {
             if (!e.target.value.length) {
             setErrorMessage(`${e.target.name} is required.`);
-            } else if (e.target.name === "") {
-                setErrorMessage(`Please etner a message`);
             } else {
                 setErrorMessage('');
             }
