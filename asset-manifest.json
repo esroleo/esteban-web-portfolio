@@ -1,25 +1,27 @@
 {
   "files": {
     "main.css": "/react-challenge-portfolio/static/css/main.2d559282.chunk.css",
-    "main.js": "/react-challenge-portfolio/static/js/main.6bbf2f60.chunk.js",
-    "main.js.map": "/react-challenge-portfolio/static/js/main.6bbf2f60.chunk.js.map",
-    "runtime-main.js": "/react-challenge-portfolio/static/js/runtime-main.9800a431.js",
-    "runtime-main.js.map": "/react-challenge-portfolio/static/js/runtime-main.9800a431.js.map",
+    "main.js": "/react-challenge-portfolio/static/js/main.2e8ccb11.chunk.js",
+    "main.js.map": "/react-challenge-portfolio/static/js/main.2e8ccb11.chunk.js.map",
+    "runtime-main.js": "/react-challenge-portfolio/static/js/runtime-main.b5395f23.js",
+    "runtime-main.js.map": "/react-challenge-portfolio/static/js/runtime-main.b5395f23.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/react-challenge-portfolio/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.2b7f3462.chunk.js": "/react-challenge-portfolio/static/js/2.2b7f3462.chunk.js",
-    "static/js/2.2b7f3462.chunk.js.map": "/react-challenge-portfolio/static/js/2.2b7f3462.chunk.js.map",
-    "static/js/3.9201513b.chunk.js": "/react-challenge-portfolio/static/js/3.9201513b.chunk.js",
-    "static/js/3.9201513b.chunk.js.map": "/react-challenge-portfolio/static/js/3.9201513b.chunk.js.map",
+    "static/js/2.20565aa0.chunk.js": "/react-challenge-portfolio/static/js/2.20565aa0.chunk.js",
+    "static/js/2.20565aa0.chunk.js.map": "/react-challenge-portfolio/static/js/2.20565aa0.chunk.js.map",
+    "static/js/3.3e859208.chunk.js": "/react-challenge-portfolio/static/js/3.3e859208.chunk.js",
+    "static/js/3.3e859208.chunk.js.map": "/react-challenge-portfolio/static/js/3.3e859208.chunk.js.map",
     "index.html": "/react-challenge-portfolio/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/react-challenge-portfolio/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.2d559282.chunk.css.map": "/react-challenge-portfolio/static/css/main.2d559282.chunk.css.map",
-    "static/js/2.2b7f3462.chunk.js.LICENSE.txt": "/react-challenge-portfolio/static/js/2.2b7f3462.chunk.js.LICENSE.txt",
+    "static/js/2.20565aa0.chunk.js.LICENSE.txt": "/react-challenge-portfolio/static/js/2.20565aa0.chunk.js.LICENSE.txt",
     "static/media/EstebanResume.f4e2b71b.pdf": "/react-challenge-portfolio/static/media/EstebanResume.f4e2b71b.pdf",
     "static/media/GitHub-logo.png": "/react-challenge-portfolio/static/media/GitHub-logo.a34f373e.png",
     "static/media/MongoDB_Logo.svg": "/react-challenge-portfolio/static/media/MongoDB_Logo.acec900c.svg",
+    "static/media/apollo-logo.png": "/react-challenge-portfolio/static/media/apollo-logo.0c07a919.png",
     "static/media/index.css": "/react-challenge-portfolio/static/media/background.e5838343.jpg",
     "static/media/bootstrap-5.svg": "/react-challenge-portfolio/static/media/bootstrap-5.98585727.svg",
     "static/media/challeng-1-refactor-code-smaller.JPG": "/react-challenge-portfolio/static/media/challeng-1-refactor-code-smaller.83acb1e5.JPG",
+    "static/media/graphql-logo.png": "/react-challenge-portfolio/static/media/graphql-logo.5abef1eb.png",
     "static/media/heroku-logo.png": "/react-challenge-portfolio/static/media/heroku-logo.961bdfde.png",
     "static/media/html-css.png": "/react-challenge-portfolio/static/media/html-css.fdd549b9.png",
     "static/media/insomnia-icon.png": "/react-challenge-portfolio/static/media/insomnia-icon.ee031f23.png",
@@ -39,10 +41,10 @@
     "static/media/work-day-scheduler.JPG": "/react-challenge-portfolio/static/media/work-day-scheduler.d1df4680.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.9800a431.js",
+    "static/js/runtime-main.b5395f23.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.2b7f3462.chunk.js",
+    "static/js/2.20565aa0.chunk.js",
     "static/css/main.2d559282.chunk.css",
-    "static/js/main.6bbf2f60.chunk.js"
+    "static/js/main.2e8ccb11.chunk.js"
   ]
 }
