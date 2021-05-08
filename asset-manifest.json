@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/react-challenge-portfolio/static/css/main.2d559282.chunk.css",
-    "main.js": "/react-challenge-portfolio/static/js/main.2823b7f5.chunk.js",
-    "main.js.map": "/react-challenge-portfolio/static/js/main.2823b7f5.chunk.js.map",
-    "runtime-main.js": "/react-challenge-portfolio/static/js/runtime-main.b5395f23.js",
-    "runtime-main.js.map": "/react-challenge-portfolio/static/js/runtime-main.b5395f23.js.map",
+    "main.js": "/react-challenge-portfolio/static/js/main.6815c308.chunk.js",
+    "main.js.map": "/react-challenge-portfolio/static/js/main.6815c308.chunk.js.map",
+    "runtime-main.js": "/react-challenge-portfolio/static/js/runtime-main.b465c8c7.js",
+    "runtime-main.js.map": "/react-challenge-portfolio/static/js/runtime-main.b465c8c7.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/react-challenge-portfolio/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.20565aa0.chunk.js": "/react-challenge-portfolio/static/js/2.20565aa0.chunk.js",
-    "static/js/2.20565aa0.chunk.js.map": "/react-challenge-portfolio/static/js/2.20565aa0.chunk.js.map",
-    "static/js/3.3e859208.chunk.js": "/react-challenge-portfolio/static/js/3.3e859208.chunk.js",
-    "static/js/3.3e859208.chunk.js.map": "/react-challenge-portfolio/static/js/3.3e859208.chunk.js.map",
+    "static/js/2.87dad1fd.chunk.js": "/react-challenge-portfolio/static/js/2.87dad1fd.chunk.js",
+    "static/js/2.87dad1fd.chunk.js.map": "/react-challenge-portfolio/static/js/2.87dad1fd.chunk.js.map",
+    "static/js/3.1cf303ac.chunk.js": "/react-challenge-portfolio/static/js/3.1cf303ac.chunk.js",
+    "static/js/3.1cf303ac.chunk.js.map": "/react-challenge-portfolio/static/js/3.1cf303ac.chunk.js.map",
     "index.html": "/react-challenge-portfolio/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/react-challenge-portfolio/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.2d559282.chunk.css.map": "/react-challenge-portfolio/static/css/main.2d559282.chunk.css.map",
-    "static/js/2.20565aa0.chunk.js.LICENSE.txt": "/react-challenge-portfolio/static/js/2.20565aa0.chunk.js.LICENSE.txt",
+    "static/js/2.87dad1fd.chunk.js.LICENSE.txt": "/react-challenge-portfolio/static/js/2.87dad1fd.chunk.js.LICENSE.txt",
     "static/media/EstebanResume.f4e2b71b.pdf": "/react-challenge-portfolio/static/media/EstebanResume.f4e2b71b.pdf",
     "static/media/GitHub-logo.png": "/react-challenge-portfolio/static/media/GitHub-logo.a34f373e.png",
     "static/media/MongoDB_Logo.svg": "/react-challenge-portfolio/static/media/MongoDB_Logo.acec900c.svg",
@@ -34,6 +34,7 @@
     "static/media/password-generator.JPG": "/react-challenge-portfolio/static/media/password-generator.6182aefd.JPG",
     "static/media/profile_picture.ace58320.png": "/react-challenge-portfolio/static/media/profile_picture.ace58320.png",
     "static/media/project1-group07.JPG": "/react-challenge-portfolio/static/media/project1-group07.8a5c9fed.JPG",
+    "static/media/project2-group05.JPG": "/react-challenge-portfolio/static/media/project2-group05.b56a409d.JPG",
     "static/media/run-buddy-project.JPG": "/react-challenge-portfolio/static/media/run-buddy-project.efee770a.JPG",
     "static/media/sequelize-logo.png": "/react-challenge-portfolio/static/media/sequelize-logo.aeca8b07.png",
     "static/media/web-api-code-quiz.JPG": "/react-challenge-portfolio/static/media/web-api-code-quiz.4a29403e.JPG",
@@ -41,10 +42,10 @@
     "static/media/work-day-scheduler.JPG": "/react-challenge-portfolio/static/media/work-day-scheduler.d1df4680.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5395f23.js",
+    "static/js/runtime-main.b465c8c7.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.20565aa0.chunk.js",
+    "static/js/2.87dad1fd.chunk.js",
     "static/css/main.2d559282.chunk.css",
-    "static/js/main.2823b7f5.chunk.js"
+    "static/js/main.6815c308.chunk.js"
   ]
 }
