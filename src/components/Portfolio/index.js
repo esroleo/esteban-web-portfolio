@@ -59,8 +59,15 @@ function Portfolio() {
             title: 'Project01 Grouo07',
             name: 'project1-group07',
             technology: 'HTML/CSS/Javascript',
-            description: `Group project 1 using external api's with fetch to support COVID patients`,
+            description: `Group project 1 uses external api's with fetch to support COVID patients`,
             link: "https://uot-project1-group07.github.io/project1-group07/"
+        },
+        {
+            title: 'Project02 Group05',
+            name: 'project2-group05',
+            technology: 'HTML/CSS/Javascript/Sequelize/API',
+            description: `Group project 2 ueses internal api's routes to talk to sequelize to fetch our data for our inventory application`,
+            link: "https://github.com/Bootcamp-Group5"
         }
       ];
 

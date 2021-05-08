@@ -35,10 +35,11 @@ function ContactForm() {
 
     const handleSubmit = (e) => {
         e.preventDefault();
+        
         if (!errorMessage) {
           setFormState({ [e.target.name]: e.target.value });
           console.log('Form', formState);
-          
+          handleShow()
           
          } 
       };
@@ -55,7 +56,7 @@ function ContactForm() {
             if (!e.target.value.length) {
             setErrorMessage(`${e.target.name} is required.`);
             } else {
-                setErrorMessage('');
+               setErrorMessage('');
             }
         }
         //console.log('errorMessage', errorMessage); 
