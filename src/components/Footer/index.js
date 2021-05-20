@@ -26,7 +26,11 @@ function Footer() {
             target="_blank"
             >Linkedin
             </Nav.Link>
-
+            <Nav.Link 
+            href="mailto:esroleo@gmail.com"
+            >esroleo@gmail.com
+            </Nav.Link>
+  
         </Nav>
         </Navbar.Collapse>
         </Navbar>
