@@ -33,13 +33,10 @@ function About() {
       <Row>
         <Col className="text-center my-5">
           <p>
+          Full stack web developer with extensive application support experience in the Capital Markets industry. Recently completed a certificate in full stack development form the University of Toronto, with newly developed skills in the MERN which includes but not limited to JavaScript, CSS, mongoDB, express..js, React.js, Node.js, PWA and SPA applications. Working on major banks in Toronto in the Capital Markets has provided me with extensive knowledge on incident, problem and change management which are key to maintaining productivity and productivity. We have worked on three teams to create meaningful web applications to help and serve the needs of clients  and expand our knowledge to keep moving forward. I’m excited to share my technical skills and grow the knowledge gathered with a company that is passionate about creativity and delivering amazing products that will fuel success.
+          </p>
+          <p>
           Achieving goals together means spending time doing what we love with people we care about. My goal is to do what I love with professionalism that will benefit us both in any future endeavors we work on.
-          </p>
-          <p>
-          I am currently working as an application support analyst at BMO Capital markets. My job entails making sure that our production environment runs smoothly.
-          </p>
-          <p>
-            I am hoping to become a full Stack Web Developer as part of my BootCamp completion!
           </p>
         </Col>
       </Row>

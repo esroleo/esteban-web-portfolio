@@ -5,7 +5,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
 import Button from 'react-bootstrap/Button';
-import ResumeFile from "../../assets/resume/EstebanResume.pdf";
+import ResumeFile from "../../assets/resume/Esteban_Romero_Resume.pdf";
 
 
 
