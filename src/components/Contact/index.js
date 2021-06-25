@@ -6,6 +6,8 @@ import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
 import { Container } from 'react-bootstrap';
+import Navbar from 'react-bootstrap/Navbar';
+import Nav from 'react-bootstrap/Nav';
 
 
 
@@ -104,8 +106,28 @@ function ContactForm() {
             <Button variant="primary" type="submit">
                 Submit
             </Button>
+            <Nav variant="tabs" className="justify-content-end" style={{ width: "100%" }}>
+
+                <Nav.Link 
+                
+                href="https://github.com/esroleo"
+                target="_blank"
+                >GitHub
+                </Nav.Link>
+                <Nav.Link 
+                href="https://www.linkedin.com/in/esroleo/"
+                target="_blank"
+                >Linkedin
+                </Nav.Link>
+                <Nav.Link 
+                href="mailto:esroleo@gmail.com"
+                >esroleo@gmail.com
+                </Nav.Link>
+
+            </Nav>
 
             </Form>
+
 
             <Modal show={show} onHide={handleClose}>
                 <Modal.Header closeButton>
@@ -120,6 +142,8 @@ function ContactForm() {
                 </Button>
                 </Modal.Footer>
              </Modal>
+
+             
 
         </Container>
         </>        
