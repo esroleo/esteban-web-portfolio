@@ -33,7 +33,7 @@ function NavPage(props) {
             <Nav.Link href="#AboutMe" onClick={() => setNavLinkSelected('About')}>About Me</Nav.Link>
             <Nav.Link href="#Portfolio" onClick={() => setNavLinkSelected('Portfolio')}>Portofilio</Nav.Link>
             <Nav.Link href="#Resume" onClick={() => setNavLinkSelected('Resume')}>Resume</Nav.Link>
-            <Nav.Link href="#Test" onClick={() => setNavLinkSelected('Contact')}>Contact</Nav.Link>
+            <Nav.Link href="#Contact" onClick={() => setNavLinkSelected('Contact')}>Contact</Nav.Link>
 
         </Nav>
         </Navbar.Collapse>
