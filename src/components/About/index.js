@@ -51,7 +51,7 @@ function About() {
           rounded />
           </a>
 
-          <a href="https://github.com/esroleo" target="_blank">
+          <a href="https://www.linkedin.com/mwlite/in/esroleo" target="_blank">
           <Image src={linkedIn} 
           className="my-2r" 
           style={{ width: "25%" }} 
