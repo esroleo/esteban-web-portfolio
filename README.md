@@ -28,7 +28,7 @@ This is a full stack web application that was built using REACT, bootstrap and g
 
 ### Open your favorite web browser and enter the following web address to start using the website.
 
-http://esroleo.github.io/react-challenge-portfolio
+http://esroleo.github.io/esteban-web-portfolio
 
 
 <a name="usage"></a>
