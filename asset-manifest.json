@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/esteban-web-portfolio/static/css/main.1bf4da86.chunk.css",
-    "main.js": "/esteban-web-portfolio/static/js/main.8a94022b.chunk.js",
-    "main.js.map": "/esteban-web-portfolio/static/js/main.8a94022b.chunk.js.map",
+    "main.css": "/esteban-web-portfolio/static/css/main.52c8c15e.chunk.css",
+    "main.js": "/esteban-web-portfolio/static/js/main.c6f72dd5.chunk.js",
+    "main.js.map": "/esteban-web-portfolio/static/js/main.c6f72dd5.chunk.js.map",
     "runtime-main.js": "/esteban-web-portfolio/static/js/runtime-main.aa9b3260.js",
     "runtime-main.js.map": "/esteban-web-portfolio/static/js/runtime-main.aa9b3260.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/esteban-web-portfolio/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.fdb02fb1.chunk.js": "/esteban-web-portfolio/static/js/2.fdb02fb1.chunk.js",
-    "static/js/2.fdb02fb1.chunk.js.map": "/esteban-web-portfolio/static/js/2.fdb02fb1.chunk.js.map",
+    "static/js/2.7460d959.chunk.js": "/esteban-web-portfolio/static/js/2.7460d959.chunk.js",
+    "static/js/2.7460d959.chunk.js.map": "/esteban-web-portfolio/static/js/2.7460d959.chunk.js.map",
     "static/js/3.2e432ca0.chunk.js": "/esteban-web-portfolio/static/js/3.2e432ca0.chunk.js",
     "static/js/3.2e432ca0.chunk.js.map": "/esteban-web-portfolio/static/js/3.2e432ca0.chunk.js.map",
     "index.html": "/esteban-web-portfolio/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/esteban-web-portfolio/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.1bf4da86.chunk.css.map": "/esteban-web-portfolio/static/css/main.1bf4da86.chunk.css.map",
-    "static/js/2.fdb02fb1.chunk.js.LICENSE.txt": "/esteban-web-portfolio/static/js/2.fdb02fb1.chunk.js.LICENSE.txt",
-    "static/media/Esteban_Romero_Resume.ee1258f0.pdf": "/esteban-web-portfolio/static/media/Esteban_Romero_Resume.ee1258f0.pdf",
+    "static/css/main.52c8c15e.chunk.css.map": "/esteban-web-portfolio/static/css/main.52c8c15e.chunk.css.map",
+    "static/js/2.7460d959.chunk.js.LICENSE.txt": "/esteban-web-portfolio/static/js/2.7460d959.chunk.js.LICENSE.txt",
+    "static/media/Esteban_Romero_Resume.e7fc7129.pdf": "/esteban-web-portfolio/static/media/Esteban_Romero_Resume.e7fc7129.pdf",
     "static/media/GitHub-logo.png": "/esteban-web-portfolio/static/media/GitHub-logo.a34f373e.png",
     "static/media/MongoDB_Logo.svg": "/esteban-web-portfolio/static/media/MongoDB_Logo.acec900c.svg",
     "static/media/apollo-logo.png": "/esteban-web-portfolio/static/media/apollo-logo.0c07a919.png",
@@ -45,8 +45,8 @@
   "entrypoints": [
     "static/js/runtime-main.aa9b3260.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.fdb02fb1.chunk.js",
-    "static/css/main.1bf4da86.chunk.css",
-    "static/js/main.8a94022b.chunk.js"
+    "static/js/2.7460d959.chunk.js",
+    "static/css/main.52c8c15e.chunk.css",
+    "static/js/main.c6f72dd5.chunk.js"
   ]
 }
